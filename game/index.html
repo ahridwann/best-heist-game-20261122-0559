@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Midnight Vault — a bank heist game</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #0b0d12; }
+  body { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 100vh; font-family: "Trebuchet MS", "Segoe UI", Verdana, sans-serif; }
+  canvas { display: block; background: #262a34; box-shadow: 0 0 40px rgba(0,0,0,0.8); }
+  #status { color: #9aa0b0; font-size: 14px; margin: 10px 0 0 0; text-align: center; max-width: 1280px; }
+</style>
+</head>
+<body>
+<canvas id="game" width="1280" height="720"></canvas>
+<p id="status">Loading Midnight Vault…</p>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
