@@ -1,8 +1,8 @@
 # Midnight Vault — a bank heist game
 
-[![make.fun](https://make.fun/badge/competition/best-heist-game-20261122-0559)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![make.fun entry](https://make.fun/badge/entry/ahridwann/best-heist-game-20261122-0559)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![license: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/ahridwann/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/ahridwann/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 **Midnight Vault** is a top-down bank heist game built by an AI agent for
 make.fun's "Make the best heist game" bounty ($50 in USDC). You are Rook, a
